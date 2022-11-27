@@ -25,6 +25,7 @@
   ## Usage 
 
   To use this project simply type "npm start" into the console after having installed the file and answer the questions.
+  Please see usage video inside assets folder.
   ![screenshot of application](/assets/screenshot.jpg)
 
   ## Credits
